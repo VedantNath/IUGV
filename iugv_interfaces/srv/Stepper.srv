@@ -1,0 +1,6 @@
+float32 angle
+int32 speed
+int32 mode
+bool dir
+---
+bool result
