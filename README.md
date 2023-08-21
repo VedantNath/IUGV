@@ -16,4 +16,4 @@ Parts used for assembly:
 * [Castor Wheel Attachment](https://a360.co/3DFNBue)
 * [Final Assembly](https://a360.co/3vsTIhY)
 
-[Exploded View of the IUGV]{https://youtu.be/-vV3laB_TKw}
+[Exploded View of the IUGV](https://youtu.be/-vV3laB_TKw)
